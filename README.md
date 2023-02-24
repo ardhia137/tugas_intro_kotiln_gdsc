@@ -7,10 +7,10 @@ program ini berfungsi untuk memfetch data dari api reqres.in dengan menggunakan 
 
 ## Identitas Pembuat
 
-NPM : 213040068
-GDSCID : 220030010
-Nama : Muhammad Ardhia Nugraha
-Universitas : Universitas Pasundan
+NPM : 213040068 \n
+GDSCID : 220030010 \n
+Nama : Muhammad Ardhia Nugraha \n
+Universitas : Universitas Pasundan \n
 
 
 
